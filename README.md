@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Harlexander
-- 👀 I’m software developer...
-- 🌱 I’m currently building a React Ntive App with video conferencing with have exposed me to alot of technologies, using cloud services.
-- 💞️ I’m always open for collaboration, i am very familiar with React, React Native, Laravel, Node, Mongo, SQL, Figma Conversion also.
+- 👋 Hi, I’m Harlexander
+- 👀 I’m a software developer...
+- 🌱 I’m currently building a React Native App with video conferencing functionalities which have exposed me to alot of technologies, including cloud services.
+- 💞️ I’m always open for collaboration, I am very familiar with React, React Native, Laravel, Node, Mongo DB, SQL, Figma Conversion also.
 - 📫 You can reach me via Email : dunkwualex6@gmail.com
 
 <!---
