@@ -6,8 +6,8 @@ I'm a passionate **software developer** with a knack for building full-stack web
 🎯 **[pevent.ng](https://pevent.ng)** – A modern event management platform  
 💻 Tech stack includes:
 - **Frontend**: Next.js + Shadcn UI
-- **Mobile**: React Native with video conferencing
-- **Backend**: Laravel + MongoDB
+- **Mobile**: React Native
+- **Backend**: Node + MongoDB
 - **Cloud**: Integrating cloud services for scalability and performance
 
 ## 🛠 Tech I'm Confident With
